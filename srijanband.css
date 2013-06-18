@@ -1,0 +1,19 @@
+.span8
+{
+	
+	background-color:black;
+}
+.span2
+{
+	background-image:url("images/guitar.jpg");
+
+}
+.accordian-inner
+{
+	background-color: yellow;
+}
+.accordian-toggle,a:hover
+{
+	background-color:#FF0046;
+	color:yellow;
+}
