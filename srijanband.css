@@ -17,3 +17,14 @@
 	background-color:#FF0046;
 	color:yellow;
 }
+
+.column
+{   background-color:gray;
+	margin: 40px 40px 0px 0px;
+	height: 800px;
+}
+.fixedbody
+{
+	background-color: white;
+	margin-left: 0px;
+}
